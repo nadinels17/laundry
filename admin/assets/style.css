@@ -1,0 +1,76 @@
+.sidebar .ul-navbar .li-nav .link-nav {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.sidebar .ul-navbar .li-nav {
+    list-style-type: none; 
+    margin-left: -35px;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.sidebar {
+    background-color:#DB7093;
+    width: 250px;
+    height: 100vh;
+}
+
+.ul-navbar {
+    margin-top: 20px;
+}
+
+.sidebar .ul-navbar.li-nav:hover {
+    background-color: rgb(252, 134, 134);
+    border: 1px solid rgb(252, 134, 134);
+    border-radius: 5px 5px 5px 5px;
+}
+
+.icon-bs {
+    margin-top: -10px;
+    margin-left: -10px;
+    color: white;
+}
+
+.profile-admin {
+    width: 100px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+.name-admin {
+    margin-left: 85px;
+    color: white;
+}
+
+.card-index{
+    background-color: #89CFF0;
+    color: white;
+}
+
+.export-data {
+    margin-top: -50px;
+    margin-left: 135vh;
+}
+
+
+.add-data {
+    margin-top: -20px;
+    margin-left: 120vh;
+}
+
+hr {
+    margin-top: 10px;
+}
+
+.link-back {
+    color: black;
+}
+
+.rows-data {
+    width: 30px;
+    color: rgb(157, 9, 58);
+}
